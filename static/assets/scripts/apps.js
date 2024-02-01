@@ -20,6 +20,12 @@ document.addEventListener('DOMContentLoaded', () => {
       now: true,
     },
     {
+      name: 'Temu',
+      link: 'https://temu.com',
+      image: '/assets/media/icons/temu.webp',
+      categories: ['all'],
+    },
+    {
       name: 'Character AI',
       link: 'https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar',
       image: '/assets/media/icons/characterai.jpg',
@@ -241,29 +247,9 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'media', 'stream'],
     },
     {
-      name: 'Roblox (Now.GG)',
-      link: 'https://now.gg/iframe/snippet?app_pkg=com.roblox.client&partner=interstellar',
-      image: '/assets/media/icons/roblox.png',
-      categories: ['all', 'emu', 'android'],
-      now: true,
-    },
-    {
       name: 'Now.GG',
       link: 'https://now.gg',
       image: '/assets/media/icons/now-gg.png',
-      categories: ['all', 'emu', 'android'],
-    },
-    {
-      name: 'Roblox (NowGG.nl)',
-      link: 'https://nowgg.nl/iframe/snippet?app_pkg=com.roblox.client&partner=interstellar',
-      image: '/assets/media/icons/astroid.png',
-      categories: ['all', 'emu', 'android'],
-      now: true,
-    },
-    {
-      name: 'Roblox (NowGG.me)',
-      link: 'https://nowgg.me/apps/roblox-corporation/5349/roblox.html',
-      image: '/assets/media/icons/shuttle.png',
       categories: ['all', 'emu', 'android'],
     },
     {
@@ -273,7 +259,7 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'emu', 'android'],
     },
     {
-      name: 'Now.GG (NowGG.me)',
+      name: 'Now.GG (NowGG.me) [Working]',
       link: 'https://nowgg.me',
       image: '/assets/media/icons/shuttle.png',
       categories: ['all', 'emu', 'android'],
