@@ -9,7 +9,7 @@ const __dirname = process.cwd()
 const server = http.createServer()
 const app = express(server)
 const bareServer = createBareServer('/v/')
-const PORT = 8000
+const PORT = process.env.PORT || 8080
 if (config.challenge) {
   console.log('Password protection is enabled. Usernames are: ' + Object.keys(config.users))
   console.log('Passwords are: ' + Object.values(config.users))
@@ -26,8 +26,7 @@ const routes = [
   { path: '/-', file: 'games.html' },
   { path: '/!', file: 'settings.html' },
   { path: '/0', file: 'tabs.html' },
-  { path: '/&', file: 'go.html' },
-  { path: '/e', file: 'now.html' },
+  { path: '/1', file: 'go.html' },
 ]
 
 const fetchData = async (req, res, next, baseUrl) => {
