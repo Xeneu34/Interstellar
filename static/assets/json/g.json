@@ -260,6 +260,12 @@
     "local": "true"
   },
   {
+    "name": "Tube Jumpers",
+    "link": "https://unblocked76.github.io/tube-jumpers/",
+    "image": "/assets/media/icons/tubejumpers.webp",
+    "categories": ["all", "2P"]
+  },
+  {
     "name": "Tunnel Rush",
     "link": "https://5dd2e8e4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/5627efae-e960-407d-82a5-3da708eb4e68/index.html",
     "image": "/assets/media/icons/tunnelrush.webp",
@@ -567,6 +573,18 @@
     "categories": ["all"]
   },
   {
+    "name": "Riddle School 4",
+    "link": "https://riddle-school-4.game-files.crazygames.com/ruffle/riddleschool4.html",
+    "image": "/assets/media/icons/rs4.jpg",
+    "categories": ["all"]
+  },
+  {
+    "name": "Riddle School 5",
+    "link": "https://riddle-school-5.game-files.crazygames.com/ruffle/riddleschool5.html",
+    "image": "/assets/media/icons/rs5.avif",
+    "categories": ["all"]
+  },
+  {
     "name": "GBA Emulator",
     "link": "https://ds.44670.org/gba/",
     "image": "/assets/media/icons/gba.webp",
@@ -871,8 +889,7 @@
     "name": "Drift Hunters",
     "link": "https://webglmath.github.io/drift-hunters/",
     "image": "/assets/media/icons/drift-hunters.webp",
-    "categories": ["all"],
-    "say": "This game may take a while to load, but it is working."
+    "categories": ["all"]
   },
   {
     "name": "Drive Mad",
@@ -1320,6 +1337,12 @@
     "categories": ["all"]
   },
   {
+    "name": "Riddle School 3",
+    "link": "https://riddle-school-3.game-files.crazygames.com/ruffle/riddleschool3.html",
+    "image": "/assets/media/icons/rs3.webp",
+    "categories": ["all"]
+  },
+  {
     "name": "Rocket Pult",
     "link": "https://v6p9d9t4.ssl.hwcdn.net/html/565140/index.html",
     "image": "/assets/media/icons/rocketpult.webp",
@@ -1431,7 +1454,15 @@
     "name": "Taming.io",
     "link": "https://taming.io/",
     "image": "/assets/media/icons/tamingio.webp",
-    "categories": ["all"]
+    "categories": ["all"],
+    "error": "true",
+    "say": "Taming.io is currently broken on the proxy and will crash Interstellar when attempted to load."
+  },
+  {
+    "name": "Temple of Boom",
+    "link": "https://temple-of-boom.github.io/file/",
+    "image": "/assets/media/icons/templeofboom.jpg",
+    "categories": ["all", "2P"]
   },
   {
     "name": "Tanuki Sunset",
@@ -1504,209 +1535,145 @@
     "name": "Roblox (Now.GG)",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.roblox.client&partner=interstellar",
     "image": "/assets/media/icons/roblox.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Madden NFL 24",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.ea.gp.maddennfl21mobile&partner=interstellar",
     "image": "/assets/media/icons/maddennfl24.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Android",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.uncube.launcher3&partner=interstellar",
     "image": "/assets/media/icons/android.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Genshin Impact",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.miHoYo.GenshinImpact&partner=interstellar",
     "image": "/assets/media/icons/genshinimpact.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Fortnite (Android)",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.epicgames.fortnite&partner=interstellar",
     "image": "/assets/media/icons/fortnite.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "EA SPORTS FC™ MOBILE 24 SOCCER",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.ea.gp.fifamobile&partner=interstellar",
     "image": "/assets/media/icons/easports-fcmobile24.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "EA SPORTS™ UFC® Mobile 2",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.ea.gp.easportsufc2&partner=interstellar",
     "image": "/assets/media/icons/easports-ufc.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Melon Playground",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.studio27.MelonPlayground&partner=interstellar",
     "image": "/assets/media/icons/melonplayground.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Solar Smash",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.paradyme.solarsmash&partner=interstellar",
     "image": "/assets/media/icons/solarsmash.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Bloons TD Battles 2",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.ninjakiwi.bloonstdbattles2&partner=interstellar",
     "image": "/assets/media/icons/bloonstd2.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Bloons TD Battles",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.ninjakiwi.bloonstdbattles&partner=interstellar",
     "image": "/assets/media/icons/bloonstd.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Cookie Run Kingdom",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.devsisters.ck&partner=interstellar",
     "image": "/assets/media/icons/cookierunkingdom.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Character AI",
     "link": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
     "image": "/assets/media/icons/characterai.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Aptoide",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.aptoide.partners.nowgg.store&partner=interstellar",
     "image": "/assets/media/icons/aptoide.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Akinator",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.digidust.elokence.akinator.freemium&partner=interstellar",
     "image": "/assets/media/icons/akinator.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "WorldBox",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.mkarpenko.worldbox&partner=interstellar",
     "image": "/assets/media/icons/worldbox.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Toca Life World",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocalifeworld&partner=interstellar",
     "image": "/assets/media/icons/tocalifeworld.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Toca Hair Salon 4",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocahairsalon4&partner=interstellar",
     "image": "/assets/media/icons/tocabocahairsalon4.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Toca Kitchen 2",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocakitchen2&partner=interstellar",
     "image": "/assets/media/icons/tocakitchen2.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Free Fire",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.dts.freefireth&partner=interstellar",
     "image": "/assets/media/icons/freefire.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Stumble Guys (Android)",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.kitkagames.fallbuddies&partner=interstellar",
     "image": "/assets/media/icons/stumbleguys.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Now.GG",
     "link": "https://now.gg",
     "image": "/assets/media/icons/now-gg.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
-  },
-  {
-    "name": "Roblox (NowGG.nl)",
-    "link": "https://nowgg.nl/iframe/snippet?app_pkg=com.roblox.client&partner=interstellar",
-    "image": "/assets/media/icons/astroid.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Roblox (NowGG.me) [Working]",
     "link": "https://nowgg.me/apps/roblox-corporation/5349/roblox.html",
     "image": "/assets/media/icons/shuttle.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
-  },
-  {
-    "name": "Now.GG (NowGG.nl)",
-    "link": "https://nowgg.nl",
-    "image": "/assets/media/icons/astroid.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Now.GG (NowGG.me) [Working]",
     "link": "https://nowgg.me",
     "image": "/assets/media/icons/shuttle.webp",
-    "categories": ["all", "emu", "android"],
-    "say": "Now.gg is currently not working.",
-    "error": true
+    "categories": ["all", "emu", "android"]
   },
   {
     "name": "Parappa the Rapper",
